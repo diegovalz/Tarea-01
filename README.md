@@ -2,13 +2,13 @@
 
 * **Nombre de la webstory:** The Hard Reign of Africa's Last Lions (*El difícil reinado de los últimos leones de África*)
 * **URL:** [https://www.nationalgeographic.com/animals/graphics/african-lions-adapt-savanna](https://www.nationalgeographic.com/animals/graphics/african-lions-adapt-savanna)
-* **Autor / Medio:** National Geographic (Área de Gráficos e Historia Visual)
+* **Autor:** National Geographic (Área de Gráficos e Historia Visual)
 
 ---
 
 ## 1. Descripción de la historia
 
-La pieza gráfica interactiva analiza la crisis de supervivencia, fragmentación de hábitat y adaptación forzada que enfrentan los leones africanos (*Panthera leo*) en la sabana contemporánea. A través de un cruce riguroso de datos ecológicos, demográficos y geoespaciales, la webstory documenta el colapso poblacional de la especie: de cientos de miles en el pasado histórico a menos de 25.000 individuos salvajes en la actualidad (una reducción de alrededor del 35 % en apenas dos décadas, según la UICN).
+La webstory analiza la crisis de supervivencia, fragmentación de hábitat y adaptación forzada que enfrentan los leones africanos (*Panthera leo*) en la sabana contemporánea. A través de un cruce riguroso de datos ecológicos, demográficos y geoespaciales, la webstory documenta el colapso poblacional de la especie: de cientos de miles en el pasado a menos de 25.000 individuos salvajes en la actualidad (una reducción de alrededor del 35 % en apenas dos décadas, según la UICN).
 
 El relato sigue el ciclo de vida del felino —desde su nacimiento y la vulnerabilidad crítica de los cachorros (donde solo 2 de cada 10 alcanzan el primer año) hasta la adultez territorial—, contrastando cada fase biológica con las crecientes presiones humanas: pérdida del 90 % de su rango geográfico histórico, descenso drástico en las poblaciones de presas nativas (cebras y ñus) de hasta un 70 % en la región de Mara (Kenia), proliferación del ganado doméstico e intensificación de las represalias letales de las comunidades locales.
 
