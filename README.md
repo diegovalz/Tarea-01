@@ -1,10 +1,8 @@
-# Tarea 01: Análisis de Webstory Basada en Datos
+# Tarea 01
 
 * **Nombre de la webstory:** The Hard Reign of Africa's Last Lions (*El difícil reinado de los últimos leones de África*)
 * **URL:** [https://www.nationalgeographic.com/animals/graphics/african-lions-adapt-savanna](https://www.nationalgeographic.com/animals/graphics/african-lions-adapt-savanna)
-* **Autor:** National Geographic (Área de Gráficos e Historia Visual)
-
----
+* **Autor:** National Geographic 
 
 ## 1. Descripción de la historia
 
@@ -15,9 +13,7 @@ El relato sigue el ciclo de vida del felino —desde su nacimiento y la vulnerab
 <!-- INSERTAR IMAGEN 1: Captura del inicio de la webstory o portada interactiva -->
 ![Portada de la webstory](portada.png)
 
----
-
-## 2. Interés y estructura narrativa
+## 2. Estructura narrativa
 
 Lo más destacable de la entrega es la capacidad para transformar métricas ecológicas complejas y dispersas en un relato continuo impulsado por la empatía y la precisión técnica:
 
@@ -25,9 +21,8 @@ Lo más destacable de la entrega es la capacidad para transformar métricas ecol
 * **Scrollytelling fluido:** A medida que el usuario avanza de forma vertical, los elementos visuales interactivos reaccionan dinámicamente. El texto actúa como un apuntador directo que resalta variables específicas en mapas y gráficos vectoriales, guiando la atención del lector sin abrumarlo cognitivamente.
 * **Focalización analítica del conflicto:** Lejos de caer en clichés sensacionalistas, la historia aborda el fenómeno desde la plasticidad conductual y las limitaciones biológicas del animal frente a un entorno dominado por el ser humano.
 
----
 
-## 3. Evaluación de la efectividad para transmitir información
+## 3. Efectividad para transmitir información
 
 ### Calidad y rigor de las fuentes de datos
 La investigación integra series temporales de largo aliento lideradas por científicos de campo (como Craig Packer del Lion Center), métricas territoriales del condado de Narok (Kenia) sobre ataques a rebaños entre 2001 y 2017, y registros actualizados de la Lista Roja de Especies Amenazadas de la UICN. La contextualización de variables —como la estacionalidad de las lluvias y la densidad de biomasa— otorga gran solidez metodológica al reportaje.
@@ -44,7 +39,7 @@ La cartografía es uno de los pilares fundamentales de la narrativa espacial:
 <!-- INSERTAR IMAGEN 3: Captura de los mapas territoriales y de dispersión -->
 ![Portada de la webstory](mapaleon.png)
 
-### Análisis de gráficos y diagramas
+### Análisis de gráficos y elementos
 El diseño de datos traduce relaciones estadísticas complejas en patrones visuales inmediatos:
 * **Gráficos de series temporales combinadas:** Representan la correlación inversa entre el declive de herbívoros salvajes (ñus y cebras) y la explosión demográfica del ganado doméstico (vacas, cabras y ovejas) por cada 10 millas cuadradas desde finales de los años 70 hasta hoy. Esta visualización evidencia sin ambigüedad la raíz del conflicto predatorio.
 * **Diagramas anatómicos y de cinemática:** Gráficos vectoriales que desglosan la mecánica del acecho, los ángulos de visión nocturna, las velocidades punta (hasta 56 km/h / 35 mph) y el gasto calórico de una emboscada fallida.
@@ -53,9 +48,5 @@ El diseño de datos traduce relaciones estadísticas complejas en patrones visua
 <!-- INSERTAR IMAGEN 4: Captura del gráfico de series temporales de presas vs. ganado -->
 ![Portada de la webstory](graficomida.png)
 
-### Interacción y equilibrio visual
-La dirección de arte conserva la paleta cromática sobria y terrosa representativa de National Geographic. Las transiciones entre ilustraciones vectoriales, datos cartográficos e interactividad responden a un diseño UX/UI limpio, donde el texto nunca compite con la visualización, sino que funciona como una leyenda narrativa sincronizada.
-
----
-
-*The Hard Reign of Africa's Last Lions* destaca como un referente de periodismo visual, logrando que el cruce de mapas geoespaciales, gráficos de tendencias y narrativa biográfica transmita con claridad la magnitud del declive de una de las especies más emblemáticas del planeta.
+### Aspecto visual de la Webstory
+La dirección de arte conserva la paleta cromática sobria y terrosa representativa de National Geographic. Las transiciones entre ilustraciones vectoriales, datos cartográficos e interactividad son muy limpias y cuentasn perfectamente la historia dando datos sin abrumar, donde el texto nunca compite con la visualización, sino que funciona como una leyenda narrativa sincronizada y complementaria.
