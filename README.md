@@ -33,7 +33,7 @@ Lo más destacable de la entrega es la capacidad para transformar métricas ecol
 La investigación integra series temporales de largo aliento lideradas por científicos de campo (como Craig Packer del Lion Center), métricas territoriales del condado de Narok (Kenia) sobre ataques a rebaños entre 2001 y 2017, y registros actualizados de la Lista Roja de Especies Amenazadas de la UICN. La contextualización de variables —como la estacionalidad de las lluvias y la densidad de biomasa— otorga gran solidez metodológica al reportaje.
 
 <!-- INSERTAR IMAGEN 2: Captura de infografías anatómicas o esquemas de caza -->
-<!-- ![Infografía anatómica y cinemática de caza](ruta/a/tu/captura_infografia_caza.png) -->
+![Portada de la webstory](porcentajescaza.png)
 
 ### Uso y protagonismo de mapas
 La cartografía es uno de los pilares fundamentales de la narrativa espacial:
@@ -42,7 +42,7 @@ La cartografía es uno de los pilares fundamentales de la narrativa espacial:
 * **Capas geoespaciales comparativas:** Superponen áreas protegidas con zonas de pastoreo intensivo para explicar visualmente dónde y por qué se concentran los ataques a rebaños y las respuestas punitivas de los pastores.
 
 <!-- INSERTAR IMAGEN 3: Captura de los mapas territoriales y de dispersión -->
-<!-- ![Mapa interactivo de pérdida de hábitat y corredores](ruta/a/tu/captura_mapa_territorio.png) -->
+![Portada de la webstory](mapaleon.png)
 
 ### Análisis de gráficos y diagramas
 El diseño de datos traduce relaciones estadísticas complejas en patrones visuales inmediatos:
@@ -51,7 +51,7 @@ El diseño de datos traduce relaciones estadísticas complejas en patrones visua
 * **Visualización de proporciones e iconografías:** El empleo de matrices de iconos y proporciones para reflejar la mortalidad de cachorros (2/10) sintetiza probabilidades demográficas con impacto visual directo.
 
 <!-- INSERTAR IMAGEN 4: Captura del gráfico de series temporales de presas vs. ganado -->
-<!-- ![Gráfico de evolución temporal: Presas salvajes vs Ganado](ruta/a/tu/captura_grafico_tendencias.png) -->
+![Portada de la webstory](graficomida.png)
 
 ### Interacción y equilibrio visual
 La dirección de arte conserva la paleta cromática sobria y terrosa representativa de National Geographic. Las transiciones entre ilustraciones vectoriales, datos cartográficos e interactividad responden a un diseño UX/UI limpio, donde el texto nunca compite con la visualización, sino que funciona como una leyenda narrativa sincronizada.
