@@ -13,7 +13,7 @@ La pieza gráfica interactiva analiza la crisis de supervivencia, fragmentación
 El relato sigue el ciclo de vida del felino —desde su nacimiento y la vulnerabilidad crítica de los cachorros (donde solo 2 de cada 10 alcanzan el primer año) hasta la adultez territorial—, contrastando cada fase biológica con las crecientes presiones humanas: pérdida del 90 % de su rango geográfico histórico, descenso drástico en las poblaciones de presas nativas (cebras y ñus) de hasta un 70 % en la región de Mara (Kenia), proliferación del ganado doméstico e intensificación de las represalias letales de las comunidades locales.
 
 <!-- INSERTAR IMAGEN 1: Captura del inicio de la webstory o portada interactiva -->
-<!-- ![Portada de la webstory The Hard Reign of Africa's Last Lions](ruta/a/tu/captura_portada.png) -->
+<!-- ![Portada de la webstory](portada.png) -->
 
 ---
 
